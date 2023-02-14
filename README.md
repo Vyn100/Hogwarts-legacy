@@ -1,6 +1,6 @@
 # Hogwarts Legacy : L'Héritage de Poudlard
 
-
+![Hogwarts legacy](img/Hogwarts-legacy.jpg)
 
 Hogwarts Legacy : L'Héritage de Poudlard est un jeu vidéo de rôle (RPG) développé par Avalanche Software et édité par Warner Bros. Interactive Entertainment en collaboration avec Portkey Games. Le jeu sort en février 2023 sur PlayStation 5, Xbox Series et PC (Windows, via Epic Games Store et Steam) ; en avril 2023 sur PlayStation 4 et Xbox One, et en juillet 2023 sur Nintendo Switch.
 
