@@ -64,3 +64,13 @@ Les équipements peuvent être trouvés, achetés ou fabriqués, puis amélioré
 
 ---
 
+## Exploration
+
+Le jeu est en monde ouvert : le personnage joué a la possibilité d'explorer librement le château, les jardins et les hameaux dans les collines aux alentours. Une carte globale accessible par le menu, ainsi qu'une mini-carte affichée dans le coin inférieur gauche de l'écran (optionnelle) permettent de se repérer plus facilement8. Les paysages évoluent au cours de l’année selon les saisons et la météorologie.
+
+L'environnement de Poudlard propose diverses activités connexes6. Le personnage peut être amené à effectuer des mini-jeux, résoudre des énigmes et interagir avec les autres personnages et les éléments de décor. Ainsi, certains habitants ou marchands peuvent avoir une histoire à raconter ou une quête secondaire à confier, ce qui permet de gagner de l'expérience. Pour se déplacer, l'avatar peut marcher, courir ou voler (sur un balai ou sur le dos de certaines créatures). Les objets collectés ainsi que l'expérience obtenue s'affichent sous forme de pop-up pendant le jeu. Les quêtes s'affichent quant à elles à gauche de l’écran, au-dessus de la mini-carte.
+
+Le village de Pré-au-Lard, avec ses magasins, permet notamment de se procurer des produits utiles (ingrédients et recettes de potions, graines de plantes magiques, vêtements et autres équipements). L'équipe a précisé que le jeu n'incluait aucun système pay-to-win, ni aucune microtransaction.
+
+---
+
