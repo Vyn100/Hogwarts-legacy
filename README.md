@@ -36,7 +36,7 @@ Hogwarts Legacy est un jeu de rôle (RPG) d'action-aventure en monde ouvert. Il 
 
 Dans le menu de création de son personnage en début de jeu, la personne peut choisir son apparence (forme du visage, yeux, couleur de peau, cheveux, accessoires), sa tonalité de voix, ses nom et prénom, sa maison de Poudlard ainsi que son dortoir (filles ou garçons).
 
-L'avatar progresse dans le jeu en étant équipé d'une baguette magique6. Un système de moralité est également présent : les missions et scénarios ne sont pas les mêmes selon les choix de la personne et les valeurs qu'elle décide de défendre au cours de l'aventure.
+L'avatar progresse dans le jeu en étant équipé d'une baguette magique. Un système de moralité est également présent : les missions et scénarios ne sont pas les mêmes selon les choix de la personne et les valeurs qu'elle décide de défendre au cours de l'aventure.
 
 ---
 
@@ -71,6 +71,8 @@ Les équipements peuvent être trouvés, achetés ou fabriqués, puis amélioré
 ---
 
 ## Exploration
+
+![Exploration](img/Explo.jpg)
 
 Le jeu est en monde ouvert : le personnage joué a la possibilité d'explorer librement le château, les jardins et les hameaux dans les collines aux alentours. Une carte globale accessible par le menu, ainsi qu'une mini-carte affichée dans le coin inférieur gauche de l'écran (optionnelle) permettent de se repérer plus facilement8. Les paysages évoluent au cours de l’année selon les saisons et la météorologie.
 
