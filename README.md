@@ -42,7 +42,7 @@ L'avatar progresse dans le jeu en étant équipé d'une baguette magique6. Un sy
 
 ## Maison de Poudlard
 
-
+![Maisons de Poudlard](img/Maison-Poudlard.jpeg)
 
 La maison de Poudlard (Gryffondor, Poufsouffle, Serdaigle ou Serpentard) peut être choisie librement par la personne en début de jeu. Elle peut également être attribuée en fonction du test de J. K. Rowling effectué au préalable sur le site Pottermore - Wizarding World : le compte Pottermore de la personne doit pour cela être relié à un compte Warner Bros games pour que cette personne soit répartie dans la maison correspondante au test.
 
