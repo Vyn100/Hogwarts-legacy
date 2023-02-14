@@ -31,3 +31,10 @@ Le personnage principal peut être masculin ou féminin, et entièrement personn
 Le personnage fait la connaissance de plusieurs autres élèves notables, amenés à l'aider dans ses quêtes et à lui confier leur histoire, tels que Natsai Onai, une élève courageuse de Gryffondor motivée par sa soif de justice ; Poppy Sweeting, de Poufsouffle, une élève altruiste fascinée par les créatures magiques, ou encore Sebastian Pallow (Sallow en anglais), un élève de Serpentard charismatique, cachant un lourd secret de famille. Grignet (Deek), un elfe de maison, aide la personne qui joue à organiser la salle sur demande selon ses besoins et à découvrir ses fonctionnalités particulières.
 
 ## Système de jeu
+
+Hogwarts Legacy est un jeu de rôle (RPG) d'action-aventure en monde ouvert. Il se joue en mode solo et en vision objective.
+
+Dans le menu de création de son personnage en début de jeu, la personne peut choisir son apparence (forme du visage, yeux, couleur de peau, cheveux, accessoires), sa tonalité de voix, ses nom et prénom, sa maison de Poudlard ainsi que son dortoir (filles ou garçons).
+
+L'avatar progresse dans le jeu en étant équipé d'une baguette magique6. Un système de moralité est également présent : les missions et scénarios ne sont pas les mêmes selon les choix de la personne et les valeurs qu'elle décide de défendre au cours de l'aventure.
+
