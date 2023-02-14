@@ -84,6 +84,8 @@ Le village de Pré-au-Lard, avec ses magasins, permet notamment de se procurer d
 
 ## Commentaires des joueurs.
 
+![Commentaires](img/Commentaires.jpg)
+
 > Ce jeu c'est trop de la bombe bordel !
 
 > Vivement qu'on puisse draguer Hermione.
