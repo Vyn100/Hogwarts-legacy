@@ -46,3 +46,11 @@ La maison de Poudlard (Gryffondor, Poufsouffle, Serdaigle ou Serpentard) peut ê
 
 Selon la maison d'attribution, la couleur de l'uniforme et la salle commune sont différentes.
 
+---
+
+## Baguette magique
+
+L'avatar est équipé d'une baguette magique, qui constitue à la fois son arme et son outil principal pour exercer la magie. Comme pour la maison d'attribution, les caractéristiques de la baguette peuvent correspondre, si la personne le décide, à celles qui lui sont attribuées sur son compte Pottermore.
+
+---
+
