@@ -42,6 +42,8 @@ L'avatar progresse dans le jeu en étant équipé d'une baguette magique6. Un sy
 
 ## Maison de Poudlard
 
+
+
 La maison de Poudlard (Gryffondor, Poufsouffle, Serdaigle ou Serpentard) peut être choisie librement par la personne en début de jeu. Elle peut également être attribuée en fonction du test de J. K. Rowling effectué au préalable sur le site Pottermore - Wizarding World : le compte Pottermore de la personne doit pour cela être relié à un compte Warner Bros games pour que cette personne soit répartie dans la maison correspondante au test.
 
 Selon la maison d'attribution, la couleur de l'uniforme et la salle commune sont différentes.
@@ -49,6 +51,8 @@ Selon la maison d'attribution, la couleur de l'uniforme et la salle commune sont
 ---
 
 ## Baguette magique
+
+![Baguette magique](img/Baguette-magique.jpg)
 
 L'avatar est équipé d'une baguette magique, qui constitue à la fois son arme et son outil principal pour exercer la magie. Comme pour la maison d'attribution, les caractéristiques de la baguette peuvent correspondre, si la personne le décide, à celles qui lui sont attribuées sur son compte Pottermore.
 
@@ -74,3 +78,9 @@ Le village de Pré-au-Lard, avec ses magasins, permet notamment de se procurer d
 
 ---
 
+## Commentaires des joueurs.
+
+> Ce jeu c'est trop de la bombe bordel !
+> Vivement qu'on puisse draguer Hermione
+> L'animation de la magie est extraordinaire !
+> Dommage qu'il n'y ai pas [Dumbledore](https://fr.wikipedia.org/wiki/Albus_Dumbledore) quand même car le directeur de Poudlard est un vrai co**ard !
