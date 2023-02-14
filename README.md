@@ -60,6 +60,8 @@ L'avatar est équipé d'une baguette magique, qui constitue à la fois son arme 
 
 ## Talents et compétences
 
+![Combat](img/Combat.jpeg)
+
 Pour améliorer ses compétences, le personnage peut participer aux cours mentionnés dans les romans, comme la défense contre les forces du Mal, la botanique, les potions ou les sortilèges, notamment. Certains cours sont obligatoires pour pouvoir suivre l'histoire principale, tandis que d'autres sont facultatifs. L'architecture des salles de cours s'inspire des salles matérialisées dans les films Harry Potter et Animaux fantastiques. L'élève a la possibilité d'explorer le château et de découvrir des passages secrets et des énigmes nécessitant certaines compétences magiques pour être résolues.
 
 Le personnage incarné a accès à un certain nombres d'améliorations, « talents » et compétences au cours de l'aventure afin de progresser en tant que sorcière ou sorcier. Il est possible d'accomplir des quêtes et relever des défis pour gagner de l'expérience, renforcer ses compétences avec des « talents » qui améliorent ses sortilèges, ses plantes et ses potions en augmentant leur puissance. La personne peut choisir ses talents afin qu'ils correspondent à son style de jeu ; cela lui permet de s'orienter vers une forme de magie spécifique.
