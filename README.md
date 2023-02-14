@@ -20,7 +20,7 @@ L'intrigue se déroule dans l'univers étendu de fantasy imaginé par J. K. Rowl
 
 La première phase du jeu est une phase d'intégration et de découverte de Poudlard, de ses cours de magie et des environs du domaine. Le personnage incarné, doté d'une magie ancienne et singulière, est intégré directement en cinquième année d'études, et apprend à développer ses capacités magiques en lançant divers sortilèges, en préparant des potions et en apprivoisant des animaux fantastiques.
 
-Au cours de sa progression dans le jeu, le personnage comprend que la magie particulière qu'il détient est convoitée par les gobelins et les mages noirs pour détruire le monde des sorciers3,4.
+Au cours de sa progression dans le jeu, le personnage comprend que la magie particulière qu'il détient est convoitée par les gobelins et les mages noirs pour détruire le monde des sorciers.
 
 Les histoires s'adaptent au parcours choisi par la personne qui joue et il est possible de sélectionner ses compagnons pour évoluer dans le jeu.
 
@@ -85,6 +85,11 @@ Le village de Pré-au-Lard, avec ses magasins, permet notamment de se procurer d
 ## Commentaires des joueurs.
 
 > Ce jeu c'est trop de la bombe bordel !
-> Vivement qu'on puisse draguer Hermione
+
+> Vivement qu'on puisse draguer Hermione.
+
 > L'animation de la magie est extraordinaire !
+
 > Dommage qu'il n'y ai pas [Dumbledore](https://fr.wikipedia.org/wiki/Albus_Dumbledore) quand même car le directeur de Poudlard est un vrai co**ard !
+
+> Moi j'ai choisis [Serpentard](https://fr.wikipedia.org/wiki/Maisons_de_Poudlard) parce que j'aime bien jetter des sorts sur les animaux.
